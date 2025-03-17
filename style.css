@@ -1,0 +1,62 @@
+.BAR {
+    color: white !important;
+
+
+}
+
+.FORMULARIO {
+        display: grid;
+        place-items: center
+}
+
+.FORME {
+    background-color: rgb(211, 211, 211);
+    box-shadow: 3px 6px 8px 3px rgb(49, 49, 49);
+    margin: auto;
+    width: 30% !important;
+    left: 30% !important;
+    top: 30% !important;
+
+
+}
+
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.Minha {
+    padding: 0;
+}
+
+.FIGURA {
+    padding: 0;
+    margin-right: 10px !important;
+}
+
+.Produtos {
+    display: grid;
+    place-items: center
+}
+ /*Edição do carousel */
+
+
+/*Texto h5 e p carousel */
+.Texto {
+    color: black;
+}
+
+
+/*Botão Previous e Next*/
+.Botoes {
+    position: sticky;
+}
+
+
+ /*Cor de fundo Imagem carousel */
+.carousel-item img {
+    background-color: rgb(179, 179, 179);
+
+
+
+}
+ /*Edição do Card*/
